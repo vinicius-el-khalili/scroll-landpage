@@ -1,6 +1,7 @@
-
-export const ScrollContainer = () =>{
+export const ScrollContainer = () => {
     return(
-        <div className="ScrollContainer">Text</div>
+        <div className="ScrollContainer">
+            hi
+        </div>
     )
 }
