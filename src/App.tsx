@@ -4,7 +4,9 @@ import { ScrollContainer } from './components/ScrollContainer/ScrollContainer';
 function App() {
   return (
     <div className="App">
-      <ScrollContainer ></ScrollContainer>
+      <ScrollContainer style={{backgroundColor:"cadetblue"}}>Hello</ScrollContainer>
+      <ScrollContainer style={{backgroundColor:"coral"}}>This is very...</ScrollContainer>
+      <ScrollContainer style={{backgroundColor:"cornflowerblue"}}>...Awesome</ScrollContainer>
     </div>
   );
 }
