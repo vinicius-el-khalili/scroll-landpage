@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vinicius-el-khalili/scroll-landpage/static/css/main.5baa86ca.css",
+    "main.js": "/vinicius-el-khalili/scroll-landpage/static/js/main.64b01d59.js",
+    "index.html": "/vinicius-el-khalili/scroll-landpage/index.html",
+    "main.5baa86ca.css.map": "/vinicius-el-khalili/scroll-landpage/static/css/main.5baa86ca.css.map",
+    "main.64b01d59.js.map": "/vinicius-el-khalili/scroll-landpage/static/js/main.64b01d59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5baa86ca.css",
+    "static/js/main.64b01d59.js"
+  ]
+}
