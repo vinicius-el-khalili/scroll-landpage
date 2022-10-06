@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <ScrollContainer style={{backgroundColor:"cadetblue"}}>Hello</ScrollContainer>
       <ScrollContainer style={{backgroundColor:"coral"}}>This is very...</ScrollContainer>
-      <ScrollContainer style={{backgroundColor:"cornflowerblue"}}>...Awesome</ScrollContainer>
+      <ScrollContainer style={{backgroundColor:"blueviolet"}}>...Awesome</ScrollContainer>
     </div>
   );
 }
