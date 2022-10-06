@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <ScrollContainer>
-        <ScrollSection style={{backgroundColor:"cadetblue"}}>hey</ScrollSection>
-        <ScrollSection style={{backgroundColor:"cornflowerblue"}}>hello</ScrollSection>
-        <ScrollSection style={{backgroundColor:"seagreen"}}>sup</ScrollSection>
+        <ScrollSection style={{backgroundColor:"cadetblue"}}>hey!</ScrollSection>
+        <ScrollSection style={{backgroundColor:"cornflowerblue"}}>hello!</ScrollSection>
+        <ScrollSection style={{backgroundColor:"seagreen"}}>sup!</ScrollSection>
       </ScrollContainer>
     </div>
   );

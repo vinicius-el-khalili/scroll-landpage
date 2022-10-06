@@ -1,6 +1,6 @@
 import React from 'react';
 type ScrollSectionProps={
-    children:string,
+    children:React.ReactNode,
     style?:React.CSSProperties
 };
 export const ScrollSection = ({children,style}:ScrollSectionProps) => {
